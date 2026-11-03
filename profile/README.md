@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://botslave.com">
-  <img src="https://botslave.com/assets/github-banner.png" alt="Botslave — automation studio" width="100%">
+  <img src="https://botslave.com/assets/github-banner.gif" alt="Botslave — automation studio" width="100%">
 </a>
 
 ### Web scraping · Business process automation · AI agents · Data pipelines
